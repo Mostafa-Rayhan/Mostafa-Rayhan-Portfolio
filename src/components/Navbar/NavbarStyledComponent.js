@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { Link as LinkR } from 'react-router-dom';
 import styled from 'styled-components';
 import _default from '../../themes/default';

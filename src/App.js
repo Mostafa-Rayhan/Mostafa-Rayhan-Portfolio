@@ -27,7 +27,9 @@ const Wrapper = styled.div`
   clip-path: polygon(0 0, 100% 0, 100% 100%,30% 98%, 0 100%);
 `
 function App() {
+  // eslint-disable-next-line no-undef, no-unused-vars
   const [darkMode, setDarkMode] = useState(true);
+  // eslint-disable-next-line no-undef
   const [openModal, setOpenModal] = useState({ state: false, project: null });
   console.log(openModal)
   return (
