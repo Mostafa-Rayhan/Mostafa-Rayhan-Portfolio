@@ -339,11 +339,11 @@ export const education = [
 
 export const projects = [
   {
-    id: 9,
+    id: 1,
     title: "Payhold Dashboard",
     date: "Jan 2023 - Feb 2023",
     description:
-      "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
+      "A complete online application called Payhold gives consumers a safe and effective platform for conducting domestic and international transactions while also enabling smooth communication via a chat function. The website allows users to add their bank accounts, deposit and withdraw money, and conduct secure transactions using SSLCommerze and credit card services.",
     image:
       "https://dl.dropboxusercontent.com/scl/fi/4ykvf55rbvly6ahwzfcb2/img1.jpg?rlkey=s4hdxai48eizh3m826zitzxsc&dl=0",
     tags: [
@@ -356,6 +356,24 @@ export const projects = [
     category: "front end",
     github: "https://github.com/Mostafa-Rayhan/Payhold-Deshboard",
     webapp: "https://payhold.netlify.app/",
+  },
+  {
+    id: 1,
+    title: "Basic Education",
+    date: "Nov 2022 - Jan 2023",
+    description:
+      "Basic Education is an online learning platform that provides high-quality educational courses to students all around the world. Our online courses cover a wide range of topics, from academic subjects like math and science to professional development courses in fields like business and technology.",
+    image:
+      "https://i.ibb.co/9v5Wz8M/Basic-Education.jpg",
+    tags: [
+      "React",
+      "Next.Js",
+      "Bootstrap",
+      "MDBootstrap",
+    ],
+    category: "front end",
+    github: "",
+    webapp: "https://basiceducation.netlify.app/",
   },
   // {
   //   id: 0,
