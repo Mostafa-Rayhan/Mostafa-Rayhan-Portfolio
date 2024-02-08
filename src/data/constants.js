@@ -328,7 +328,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.fdac31-1.fna.fbcdn.net/v/t39.30808-6/305027583_507567624705536_6059020420072320093_n.png?_nc_cat=101&ccb=1-7&_nc_sid=efb6e6&_nc_eui2=AeFN41PTWR0CQK_lfuej1YiGdcZtVGL_Unt1xm1UYv9Se0ZigxoH7VsUJtj9kL5misqcitfa4uox9TrAWhpNtIOs&_nc_ohc=JjZqbKQWOLMAX_08hi2&_nc_ht=scontent.fdac31-1.fna&oh=00_AfB0dRMH8407S2R6iF0L8G4iH6P4A-KvSNxr4TPMSg9kHQ&oe=659C842B",
+    img: "https://i.ibb.co/ctSXPYR/download.jpg",
     school: "Ashujia J N C Institution, Ashujia, Kendua, Netrokona",
     date: "2011 - 2016",
     grade: "5.00 GPA",
@@ -358,7 +358,7 @@ export const projects = [
     webapp: "https://payhold.netlify.app/",
   },
   {
-    id: 1,
+    id: 2,
     title: "Basic Education",
     date: "Nov 2022 - Jan 2023",
     description:
@@ -374,6 +374,57 @@ export const projects = [
     category: "front end",
     github: "",
     webapp: "https://basiceducation.netlify.app/",
+    member: [
+          {
+            name: "Mostafa Rayhan",
+            img: "https://avatars.githubusercontent.com/u/64858659?v=4",
+            linkedin: "https://www.linkedin.com/in/mostafa-rayhan-2972391a9/",
+            github: "https://github.com/Mostafa-Rayhan",
+          },
+          {
+            name: "Akramul Ratul",
+            img: "https://avatars.githubusercontent.com/u/68425589?v=4",
+            linkedin: "https://www.linkedin.com/in/akramul-ratul/",
+            github: "https://github.com/akramulratul",
+          },
+        ],
+  },
+  {
+    id: 3,
+    title: "Best Video Network",
+    date: "March 2023 - April 2023",
+    description:
+      "Our digital signage gallery showcases our signage projects with pictures of digital signage",
+    image:
+      "https://i.ibb.co/FYcgHjY/Best-Video-Network.jpg",
+    tags: [
+      "React",
+      "Next.Js",
+      "Tailwind CSS",
+    ],
+    category: "front end",
+    github: "",
+    webapp: "https://next-js-two-brown.vercel.app/",
+  },
+  {
+    id: 4,
+    title: "BulkPulses",
+    date: "December 2023 - January 2024",
+    description:
+      "BulkPulse is a wholesale marketplace where you can buy pulses in large quantities and also at a reasonable price. We provide delivery of our pulses in 64 districts of Bangladesh. You will get the best quality and clean pulses from us. To get these best quality pulses, you can order them on our website also you can contact us through our contact number.",
+    image:
+      "https://i.ibb.co/ZJPBfSf/Screenshot-2024-02-08-020548.jpg",
+    tags: [
+      "React",
+      "Node.Js",
+      "Express.Js",
+      "Tailwind CSS",
+      "Material UI",
+      "MongoDB",
+    ],
+    category: "full stack",
+    github: "https://github.com/Mostafa-Rayhan/BulkPulses-MERN.git",
+    webapp: "https://bulkpulse.netlify.app/",
   },
   // {
   //   id: 0,
