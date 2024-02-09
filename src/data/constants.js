@@ -407,7 +407,28 @@ export const projects = [
     webapp: "https://next-js-two-brown.vercel.app/",
   },
   {
-    id: 4,
+    id: 1,
+    title: "Mirchi Movies",
+    date: "February 2023 - March 2023",
+    description:
+      "Mirichi Movies is a dynamic movie website crafted with HTML, CSS, SCSS, Bootstrap, jQuery, and Django, offering users a seamless browsing experience. With its sleek design and intuitive interface, users can effortlessly explore a vast collection of films, making it a standout addition to any portfolio for its innovative use of web technologies in the realm of entertainment.",
+    image:
+      "https://i.ibb.co/jvSpGZQ/Mirchi-Movies.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "SCSS",
+      "Bootstrap",
+      "Javascript",
+      "jQuery",
+      "Django",
+    ],
+    category: "back end",
+    github: "https://github.com/Mostafa-Rayhan/Mirchi-Movie-Django.git",
+    webapp: "https://mirichimovies.netlify.app/",
+  },
+  {
+    id: 1,
     title: "BulkPulses",
     date: "December 2023 - January 2024",
     description:
