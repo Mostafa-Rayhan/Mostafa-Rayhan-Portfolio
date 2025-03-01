@@ -262,6 +262,9 @@ export const experiences = [
       "ASP.NET Core",
       "Oracle",
       "PL/SQL",
+      "IIS",
+      "Microsoft Azure",
+      "Scrum",
     ],
     doc: "",
   },
@@ -280,6 +283,9 @@ export const experiences = [
       "Oracle",
       "PL/SQL",
       "TypeScript",
+      "IIS",
+      "Microsoft Azure",
+      "Scrum",
     ],
     doc: "",
   },
@@ -344,10 +350,10 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/C4D0BAQF7YFXsGpQEEA/company-logo_200_200/0/1631341274789?e=1712793600&v=beta&t=bFBTUv3lH2hMP3dhw370fu0nckXWSF6YlxlRgZuG1qY",
+    img: "https://seeklogo.com/images/D/daffodil-international-university-logo-11C0D0D39A-seeklogo.com.png",
     school: "Daffodil International University, Ashulia, Dhaka",
     date: "Apr 2019 - Jun 2023",
-    grade: "3.55 CGPA",
+    grade: "3.56 CGPA",
     desc: "I have successfully completed my Bachelor's in Computer Science and Engineering at Daffodil International University. I have completed 12 semesters and have a CGPA of 3.55. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, Software Engineering and Computer Networks, among others. I am also a member of the DIU CPC - Daffodil International University Computer and Programming Club at DIU, where I am learning and working on exciting projects with a team of talented developers.",
     degree: "Bachelor of Science - B.Sc., Computer Science and Engineering",
   },
@@ -372,6 +378,27 @@ export const education = [
 ];
 
 export const projects = [
+  {
+    id: 0,
+    title: "UpTurn Idea",
+    date: "Jan 2024 - Apr 2024",
+    description:
+      "Upturn idea is a 'Digital marketing' agency.Upturn Idea will assist you in reaching your financial and branding goals.",
+    image:
+      "https://i.ibb.co.com/kgytCk57/Screenshot-2025-03-02-011311.jpg",
+    tags: [
+      "HTML",
+      "CSS",
+      "Bootstrap",
+      "React",
+      "Next.js",
+      "Node.js",
+      "MongoDB",
+    ],
+    category: "full stack",
+    github: "",
+    webapp: "https://upturnidea.com/",
+  },
   {
     id: 1,
     title: "Payhold Dashboard",
