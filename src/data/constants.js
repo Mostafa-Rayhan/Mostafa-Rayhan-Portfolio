@@ -88,6 +88,11 @@ export const skills = [
     title: "Backend",
     skills: [
       {
+        name: "ASP.NET",
+        image:
+          "https://www.svgrepo.com/show/508894/aspnet.svg",
+      },
+      {
         name: "Python",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
@@ -119,6 +124,11 @@ export const skills = [
         name: "MySQL",
         image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg",
+      },
+      {
+        name: "Oracle",
+        image:
+          "https://www.svgrepo.com/show/354152/oracle.svg",
       },
       {
         name: "SQLite3",
@@ -166,6 +176,11 @@ export const skills = [
       {
         name: "C++",
         image:
+          "https://www.svgrepo.com/show/452184/csharp.svg",
+      },
+      {
+        name: "C#",
+        image:
           "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg",
       },
       {
@@ -187,12 +202,17 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://www.svgrepo.com/show/452210/git.svg",
       },
       {
         name: "GitHub",
         image:
-          "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png",
+          "https://www.svgrepo.com/show/475654/github-color.svg",
+      },
+      {
+        name: "Azure",
+        image:
+          "https://www.svgrepo.com/show/353464/azure.svg",
       },
       {
         name: "Docker",
