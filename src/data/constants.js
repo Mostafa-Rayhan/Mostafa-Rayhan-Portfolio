@@ -45,6 +45,14 @@ export const skills = [
           "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGhlaWdodD0iNTEycHgiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUxMiA1MTI7IiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB3aWR0aD0iNTEycHgiIHhtbDpzcGFjZT0icHJlc2VydmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiPjxnIGlkPSJfeDMyXzEtYW5ndWxhciI+PGc+PHBhdGggZD0iTTIxNi44NzksMjY4LjQyNmg3OC4yNDFMMjU2LDE3NC4zNzJMMjE2Ljg3OSwyNjguNDI2TDIxNi44NzksMjY4LjQyNnogTTI1NiwyNi4wMDFMNDIuNjM1LDEwMi4zOTUgICAgbDMyLjY1MiwyODMuMDgxTDI1Niw0ODUuOTk5bDE4MC43MTItMTAwLjUyM2wzMi42NTMtMjgzLjA4MUwyNTYsMjYuMDAxeiBNMzg5LjY4OCwzNzYuOTU3aC00OS45MDRsLTI2LjktNjcuMTUzSDE5OS4zMjEgICAgbC0yNi45MDMsNjcuMTUzaC01MC4wMDNMMjU2LDc2LjgyN0wzODkuNjg4LDM3Ni45NTd6IiBzdHlsZT0iZmlsbDojREQwMDMxOyIvPjwvZz48L2c+PGcgaWQ9IkxheWVyXzEiLz48L3N2Zz4=",
       },
       {
+        name: "Vue",
+        image: "https://www.svgrepo.com/show/452130/vue.svg",
+      },
+      {
+        name: "Vuetify",
+        image: "https://www.svgrepo.com/show/306946/vuetify.svg",
+      },
+      {
         name: "HTML",
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
@@ -52,6 +60,11 @@ export const skills = [
         name: "CSS",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+      },
+      {
+        name: "Jquery",
+        image:
+          "https://www.svgrepo.com/show/508923/jquery.svg",
       },
       {
         name: "JavaScript",
@@ -62,11 +75,6 @@ export const skills = [
         name: "TypeScript",
         image:
           "https://cdn.worldvectorlogo.com/logos/typescript.svg",
-      },
-      {
-        name: "Jquery",
-        image:
-          "https://www.svgrepo.com/show/508923/jquery.svg",
       },
       {
         name: "Bootstrap",
@@ -82,6 +90,11 @@ export const skills = [
         name: "Material UI",
         image:
           "https://www.svgrepo.com/show/354048/material-ui.svg",
+      },
+      {
+        name: "Blazor",
+        image:
+          "https://www.svgrepo.com/show/330066/blazor.svg",
       },
     ],
   },
